@@ -1,0 +1,7 @@
+service_line,spend_2019,spend_2020,spend_2021,covid_impact_pct
+nursing,170.0,163.0,174.0,-4.12
+physician,772.0,742.0,810.0,-3.89
+other,192.0,185.0,201.0,-3.65
+hospital,1192.0,1155.0,1323.0,-3.1
+home_health,113.0,113.0,124.0,0.0
+prescription_drugs,370.0,377.0,406.0,1.89

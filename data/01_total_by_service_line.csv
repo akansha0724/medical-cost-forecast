@@ -1,0 +1,7 @@
+service_line,label,total_spend_bn,avg_annual_spend_bn
+hospital,Hospital care,24711.8,726.8
+physician,Physician and clinical services,15732.2,462.7
+prescription_drugs,Prescription drugs,7415.5,218.1
+nursing,Nursing care facilities and continuing care retirement communities,4203.5,123.6
+other,"Other health, residential, and personal care",3645.4,107.2
+home_health,Home health care,2155.8,63.4
